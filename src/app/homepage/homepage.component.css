@@ -1,0 +1,15 @@
+.home-container {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(52, 202, 67);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(62, 0, 117, 0.1);
+  }
+  
+  .home-container h2 {
+    margin-bottom: 20px;
+  }
+  
